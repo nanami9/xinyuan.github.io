@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Xinyuan Luo"
 title_separator          : "-"
-name                     : &name "Xinyuan Luo"
-description              : &description "personal description"
+name                     : "Xinyuan"
+description              : "personal description"
 url                      : https://nanami9.github.io/xinyuan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanami9.github.io/xinyuan.github.io"
@@ -22,7 +22,7 @@ repository               : "nanami9.github.io/xinyuan.github.io"
 author:
   # Biographic information
   avatar           : "xinyuan.png"
-  name             : "Xinyuan"
+  name             : "Xinyuan Luo(罗歆源)"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
