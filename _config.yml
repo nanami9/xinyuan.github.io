@@ -12,7 +12,7 @@ title                    : "Xinyuan Luo"
 title_separator          : "-"
 name                     : &name "Xinyuan Luo"
 description              : &description "personal description"
-url                      : "https://nanami9.github.io/xinyuan.github.io/"
+url                      : https://nanami9.github.io/xinyuan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
